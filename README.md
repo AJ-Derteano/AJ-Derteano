@@ -55,3 +55,24 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+# Stats
+
+| ![AJ Derteano Patel's github stats](https://github-readme-stats.vercel.app/api?username=AJ-Derteano&theme=default&hide_border=false&include_all_commits=true&count_private=true)    | ![AJ Derteano Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AJ-Derteano&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Derteano&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AJ-Derteano&include_all_commits=true&count_private=true)                                                         |
+
+---
+
+<figure><embed src="https://wakatime.com/share/@06c5850a-5bfd-4668-b02a-721d69d50723/0e3b27a5-05a1-4565-920a-b3e621d325c4.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@06c5850a-5bfd-4668-b02a-721d69d50723/f2dd8f82-616d-4cde-8185-854da793fafd.svg"></embed></figure>
+
+<img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
+
+<div align="center">
+   <img src="https://visitcount.itsvg.in/api?id=AJ-Derteano&label=Profile%20Views&icon=5&pretty=true">
+
+[![wakatime](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723/project/96aea3ce-78f0-449c-a544-36e7e428b11a.svg)](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723/project/96aea3ce-78f0-449c-a544-36e7e428b11a)
+
+</div>
