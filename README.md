@@ -72,7 +72,7 @@
 
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=AJ-Derteano&label=Profile%20Views&icon=5&pretty=true">
-
-[![wakatime](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723/project/96aea3ce-78f0-449c-a544-36e7e428b11a.svg)](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723/project/96aea3ce-78f0-449c-a544-36e7e428b11a)
+  
+  [![wakatime](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723.svg)](https://wakatime.com/@06c5850a-5bfd-4668-b02a-721d69d50723)
 
 </div>
